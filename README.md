@@ -1,4 +1,4 @@
-# Android-Notes-App
+# Android|FireBase-Notes-App
 
 ## Setup Guide
 
