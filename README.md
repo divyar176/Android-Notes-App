@@ -1,15 +1,18 @@
 # Android-Notes-App
 
-To Start
+## Setup Guide
 
-Step 1: Create a new project through 
+### Step 1: 
+Create a new project through 
 [Firebase Console](https://firebase.google.com/)
 
-Step 2: Setup Firebase project to use with Android
+### Step 2: 
+Setup Firebase project to use with Android
 
-Step 3: Copy the google-services.json file generated from firebase in android studio app folder
+### Step 3: 
+Copy the google-services.json file generated from firebase in android studio app folder
 
-Steps to Setup the Services
+### Step 4: Setup the Services
 
 1. Authentication
 * Connect Android Application to firebase by navigating to Tools->FireBase->Authentication->Add the firebase Authentication SDK to your app
@@ -23,7 +26,7 @@ Steps to Setup the Services
 * Connect Android Application to firebase by navigating to Tools->FireBase->Storage->Add the firebase Storage SDK to your app
 * Add the dependency *implementation 'com.google.firebase:firebase-storage:20.0.1'* to the build gradle file
 
-3. Analytics
+4. Analytics
 * Connect Android Application to firebase by navigating to Tools->FireBase->Anaytics->Add the firebase Analytics SDK to your app
 * Add the dependency *implementation 'com.google.firebase:firebase-analytics:20.1.1'* to the build gradle file
 
