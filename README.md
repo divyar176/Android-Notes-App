@@ -30,4 +30,10 @@ Copy the google-services.json file generated from firebase in android studio app
 * Connect Android Application to firebase by navigating to Tools->FireBase->Anaytics->Add the firebase Analytics SDK to your app
 * Add the dependency *implementation 'com.google.firebase:firebase-analytics:20.1.1'* to the build gradle file
 
+5. Performance
+* Connect Android Application to firebase by navigating to Tools->FireBase->PerformanceMonitoring->Add the firebase Performance Monitoring SDK to your app
+* Add the dependency *implementation 'com.google.firebase:firebase-perf:20.0.6'* to the build gradle file
+
+
+
 
